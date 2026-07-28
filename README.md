@@ -155,25 +155,28 @@ I am interested in collaborating on projects involving:
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=muiizz8&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400"
+    height="165"
+    alt="Abdul Muizz GitHub Statistics"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=muiizz8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Abdul Muizz's GitHub statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muiizz8&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400"
+    height="165"
+    alt="Abdul Muizz Most Used Languages"
+  />
+</p>
 
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=muiizz8&theme=tokyonight&hide_border=true" alt="Abdul Muizz's GitHub contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muiizz8&theme=tokyonight&hide_border=true&layout=compact" alt="Most used languages" />
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=muiizz8&amp;theme=tokyonight"
+    alt="Abdul Muizz GitHub Contribution Streak"
+  />
+</p>
 
 ### Let's Connect
 
