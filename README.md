@@ -1,24 +1,184 @@
-# 💫 About Me:
-Abdul Muizz: AI/ML Engineer (Inquisitive Learner)<br><br>I'm Abdul Muizz, an AI/ML engineer fueled by an insatiable curiosity to learn and explore the ever-evolving field of machine learning 🤖. This profile serves as a central hub for anyone interested in connecting, collaborating, or simply following my journey in this fascinating domain 🌐. Whether you're a seasoned expert or a fellow enthusiast, I'm always eager to learn from others and share my experiences 📚. Feel free to reach out and strike up a conversation about the latest advancements in AI/ML or the potential applications that pique your interest 🌟.<br><br>Currently Learning: MLops, Agentic AI.<br><br>Skills: Python, Flask, Pandas, NumPy, Matplolib, HuggingFace Transformers, Scikit-Learn, LangChain, Pytorch
+<div align="center">
 
+# Hi, I'm Abdul Muizz 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__muizz.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmuizz1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdul.muizz646@gmail.com) 
+### AI/ML Engineer · Generative AI Developer · Software Engineer
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muiizz8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muiizz8&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muiizz8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I build intelligent applications that combine machine learning, large language models, modern web technologies, and cross-platform software engineering.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muiizz8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Muizz-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abdulmuizz1)
+[![Instagram](https://img.shields.io/badge/Instagram-__muizz.__-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/__muizz.__)
+[![Email](https://img.shields.io/badge/Email-abdul.muizz646%40gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:abdul.muizz646@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muiizz8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muiizz8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am an **AI/ML Engineer and Software Developer** focused on building practical, user-oriented applications powered by machine learning and generative AI.
+
+My work includes **LLM applications, Retrieval-Augmented Generation systems, natural language processing, document-based question answering, neural networks, classification models, real-time communication systems, and cross-platform desktop applications**.
+
+I enjoy working across the complete development lifecycle—from preparing data and training models to designing APIs, developing user interfaces, integrating databases, and deploying functional applications.
+
+I am particularly interested in turning AI concepts into reliable products that solve real problems rather than keeping them limited to experiments and notebooks.
+
+### Currently Exploring
+
+* MLOps and production ML workflows
+* Agentic AI systems
+* AI application architecture
+* LLM evaluation and observability
+* Scalable RAG pipelines
+* Model deployment and monitoring
+
+---
+
+## What I Build
+
+* **Generative AI Applications:** Multi-model chat systems, AI assistants and LLM-powered interfaces
+* **RAG Systems:** Document retrieval, embeddings, vector databases and contextual question answering
+* **Machine Learning Solutions:** Classification, fraud detection, preprocessing and model evaluation
+* **NLP Applications:** Summarization, sentiment analysis, translation and text generation
+* **Cross-Platform Desktop Apps:** Modern applications using C#, .NET and Avalonia UI
+* **Real-Time Systems:** UDP/TCP messaging, telemetry dashboards and structured JSON protocols
+* **Full-Stack Applications:** React and Next.js frontends connected to Python and Flask backends
+
+---
+
+## Technical Skills
+
+### AI, Machine Learning and Data
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=python\&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### Generative AI and RAG
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watsonx-052FAD?style=for-the-badge\&logo=ibm\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-5A29E4?style=for-the-badge)
+
+### Backend and APIs
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+
+### Web Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Desktop and Systems Development
+
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-8B44AC?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-00599C?style=for-the-badge)
+![UDP](https://img.shields.io/badge/UDP-Real--Time%20Communication-0078D4?style=for-the-badge)
+
+### Databases, Cloud and Development Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [ChatApplication](https://github.com/muiizz8/ChatApplication)
+
+A cross-platform tactical messaging application developed with **C#, .NET 9 and Avalonia UI**. It supports UDP, TCP and Proto.Actor transports, structured messaging, delivery acknowledgements, persistent configuration and SQLite-based chat history.
+
+### [UDP JSON Dashboard](https://github.com/muiizz8/udp-json-dashboard)
+
+A real-time telemetry monitoring and testing dashboard built with **Avalonia UI and .NET 9**. The application supports UDP communication, configurable network instances, editable JSON payloads, traffic logging and local data persistence.
+
+### [GenAI App](https://github.com/muiizz8/GenAI-App)
+
+A full-stack generative AI chat application with authentication and support for multiple language models. Built with **Next.js, React, TypeScript, Tailwind CSS, Python, Flask, LangChain and IBM Watsonx**.
+
+### [RAG Application](https://github.com/muiizz8/Rag-application)
+
+A Retrieval-Augmented Generation application that combines **LangChain, Hugging Face embeddings, ChromaDB and IBM Watsonx** to answer questions from company documents while preserving conversational context.
+
+### [NLP Assistant](https://github.com/muiizz8/NLP-HFTransformers)
+
+An NLP application using **Hugging Face Transformers and Flask** for text summarization, sentiment analysis, translation and text generation.
+
+### [AI Data Assistant](https://github.com/muiizz8/Docu_AI)
+
+An AI-powered document assistant that analyzes PDF files and answers questions using **Python, LangChain, OpenAI and web technologies**.
+
+### [Credit Card Fraud Detection](https://github.com/muiizz8/CreditCard-Fraud-Detection)
+
+A machine-learning project using **Scikit-learn, Snap ML, Pandas and NumPy** to identify fraudulent transactions and evaluate classification performance.
+
+---
+
+## Professional Interests
+
+I am interested in collaborating on projects involving:
+
+* Generative AI and intelligent assistants
+* Agentic AI workflows
+* Retrieval-Augmented Generation
+* Natural language processing
+* Machine-learning deployment
+* Cross-platform desktop applications
+* Real-time networking and telemetry systems
+* AI-enabled web products
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muiizz8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Abdul Muizz's GitHub statistics" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=muiizz8&theme=tokyonight&hide_border=true" alt="Abdul Muizz's GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muiizz8&theme=tokyonight&hide_border=true&layout=compact" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I am always open to discussing AI, machine learning, software engineering, research ideas and meaningful collaboration opportunities.
+
+**Building intelligent systems that connect strong engineering with practical AI.**
+
+</div>
